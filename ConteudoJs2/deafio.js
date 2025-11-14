@@ -11,7 +11,7 @@ let idade = parseInt(phrase.slice(26, 28));
 let email = phrase.slice(38);
 
 //Verifica se tem o domínio de email
-let dominioEmail = phrase.includes("@email.com");
+let dominioEmail = phrase.includes("@gmail.com");
 
 //separa o primeiro nome
 let primeiroNome = nomeCompleto.split(" ")[0];
