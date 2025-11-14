@@ -1,0 +1,24 @@
+//Estudar a base, olhar os slides do homi.
+
+- Operador ternário
+
+let idade = 19;
+let adulto = idade >= 18 ? "Adulto" : "Muleke";
+console.log(adulto);
+
+- Operadores aritméticos que nao conehço
+
+a ** b; -> exponenciação
+++a; pré incremento
+--b; pré decremento
+*/
+
+- Operadores de Comparação que não conheço 
+
+5 == 5 // true
+5 === "5" // false
+5 != "5" // false
+5 !== "5" // true
+
+Obs: === e !==, comparam o valor e o tipo da variável;
+
